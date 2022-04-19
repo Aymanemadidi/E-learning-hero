@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/E-learning-hero/static/css/main.ebddbf52.css",
+    "main.js": "/E-learning-hero/static/js/main.424ad04b.js",
+    "static/js/787.acc2f775.chunk.js": "/E-learning-hero/static/js/787.acc2f775.chunk.js",
+    "static/media/bg.png": "/E-learning-hero/static/media/bg.bc53637652735a37568e.png",
+    "static/media/eLearning.png": "/E-learning-hero/static/media/eLearning.bd758bcf47c1246bb6d6.png",
+    "static/media/logo.svg": "/E-learning-hero/static/media/logo.7e2ce1d8b7f12db4b73beef65c456700.svg",
+    "index.html": "/E-learning-hero/index.html",
+    "main.ebddbf52.css.map": "/E-learning-hero/static/css/main.ebddbf52.css.map",
+    "main.424ad04b.js.map": "/E-learning-hero/static/js/main.424ad04b.js.map",
+    "787.acc2f775.chunk.js.map": "/E-learning-hero/static/js/787.acc2f775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebddbf52.css",
+    "static/js/main.424ad04b.js"
+  ]
+}
